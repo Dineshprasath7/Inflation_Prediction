@@ -1,4 +1,4 @@
-# 📈 Inflation Forecasting System
+#  Inflation Forecasting System
 
 This project presents a **Streamlit-based interactive web application** designed to predict inflation trends using **Consumer Price Index (CPI)** data collected from **January 13 to January 25**. By leveraging **machine learning techniques—specifically a Random Forest Regressor**, the application enables users to choose between **Rural, Urban, or Combined CPI values** as the target for prediction.
 
@@ -34,7 +34,7 @@ This project presents a **Streamlit-based interactive web application** designed
 
 ---
 
-## 🎯 Prediction Targets
+##  Prediction Targets
 
 - Rural CPI
 - Urban CPI
@@ -42,7 +42,7 @@ This project presents a **Streamlit-based interactive web application** designed
 
 ---
 
-## 📊 Model Accuracy
+##  Model Accuracy
 
 | Train-Test Split | R² Score (Accuracy)     |
 |------------------|--------------------------|
@@ -52,7 +52,7 @@ This project presents a **Streamlit-based interactive web application** designed
 
 ---
 
-## 🚀 Use Cases
+##  Use Cases
 
 - **Policy Analysts**: Evaluate how CPI trends evolve over time.
 - **Economists**: Predict inflation patterns for planning and reporting.
@@ -60,7 +60,7 @@ This project presents a **Streamlit-based interactive web application** designed
 
 ---
 
-## 🧠 Summary
+##  Summary
 
 This application demonstrates how **machine learning** can generate **actionable insights** from public economic data. It showcases the full ML pipeline—from preprocessing to model deployment—within an accessible web interface. It serves as both a **practical forecasting tool** and an **educational resource** for anyone interested in CPI-based inflation prediction.
 
